@@ -13,7 +13,7 @@ from tkinter import messagebox
 
 root=Tk()
 
-root.title("SPORTS STORE MANAGEMENT")
+root.title("SPORTS STORE MANAGEMENT SYSTEM")
 # root.iconbitmap('c:/hnet.com-image.ico')
 root.geometry("1200x600")
 
