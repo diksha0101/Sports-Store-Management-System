@@ -20,6 +20,7 @@ root.geometry("1200x600")
 root.minsize(700,600)
 root.configure(background="darkred")
 
+print("Sports Store")
 
 #TITLE OF THE PROGRAM
 titleLabel = Label(root, text=("SPORTS STORE MANAGEMENT SYSTEM"), pady=10, font=("Ink Free",38,"bold","italic"),
@@ -1160,3 +1161,4 @@ cur=  myd.cursor()
 
 
 root.mainloop()
+
